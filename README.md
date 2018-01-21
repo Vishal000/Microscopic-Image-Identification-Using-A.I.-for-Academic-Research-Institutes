@@ -13,3 +13,8 @@ Install the following frameworks/dependencies:- tensorflow, numpy, matplotlib, p
 1. python extract_features.py
 2. python train.py
 3. python test.py
+
+After completing the above process, Continue to the browser.
+Enter,
+http://server-IP-address:8080/Project
+
