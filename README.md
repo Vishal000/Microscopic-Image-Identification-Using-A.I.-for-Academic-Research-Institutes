@@ -1,5 +1,3 @@
-# RepositoryForTeam029
-
 Summary of the project
 -----------------------
 Pretrained datasets (664 nodes) are used to create the model.
