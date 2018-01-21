@@ -1,5 +1,5 @@
-Summary of the project
------------------------
+Microscopic Image Identification Using A.I. for Academic & Research Institutes 
+------------------------------------------------------------------------------
 Pretrained datasets (664 nodes) are used to create the model.
 
 The project can be divided into three stages-
