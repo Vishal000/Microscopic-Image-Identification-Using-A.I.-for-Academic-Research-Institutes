@@ -12,6 +12,6 @@ The project can be divided into three stages-
 Steps to run this project:-
 ---------------------------
 Install the following frameworks/dependencies:- tensorflow, numpy, matplotlib, python-dev, h5py, scikit-learn
-python extract_features.py
-python train.py
-python test.py
+1. python extract_features.py
+2. python train.py
+3. python test.py
